@@ -1,0 +1,6 @@
+{
+  "name": "나이스 급식 AI",
+  "description": "선택한 날짜의 급식을 조회하고, Gemini AI가 들려주는 재치 있는 한줄평을 감상해보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
